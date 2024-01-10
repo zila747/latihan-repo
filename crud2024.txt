@@ -1,0 +1,4 @@
+Planning CRUD 2024
+- Insert data
+- Update data
+- Delete data
