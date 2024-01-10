@@ -1,0 +1,4 @@
+Planning web semester genap
+- belajar github
+- belajar crud laravel
+- buat project
