@@ -1,6 +1,5 @@
 Planning web semester genap
 - belajar crud laravel
 - buat project
-
-
 - presentasi laporan
+- ujian UKK
